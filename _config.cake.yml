@@ -1,16 +1,12 @@
 
 author:
   avatar:
-    url: /images/avatar.jpg
+#     url: /images/avatar.jpg
   sns:
     - icon: {name: envelope, options: {type: 'fa'}}
-      link: mailto:i@dnocm.com
-    - icon: {name: fab telegram, options: {type: 'fa'}}
-      link: https://t.me/dnocm
-    - icon: {name: rss, options: {type: 'fa'}}
-      link: /rss2.xml
+      link: mailto:#
     - icon: {name: fab github, options: {type: 'fa'}}
-      link: https://github.com/JiangTJ
+      link: https://github.com/camellusforest
 
 head:
   favicons:
