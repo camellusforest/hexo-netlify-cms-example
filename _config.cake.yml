@@ -4,7 +4,7 @@ author:
 #     url: /images/avatar.jpg
   sns:
     - icon: {name: envelope, options: {type: 'fa'}}
-      link: mailto:#
+#       link: mailto:#
     - icon: {name: fab github, options: {type: 'fa'}}
       link: https://github.com/camellusforest
 
