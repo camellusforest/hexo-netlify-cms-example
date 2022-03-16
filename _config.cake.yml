@@ -38,7 +38,7 @@ menu:
   archives: { enable: true }
   about:
 #     path: /more/
-    path: #
+    path: https://camellusforest.netlify.app/2099/01/01/about-this-example/
     icon: { name: info-circle, options: { type: "fa" } }
 # comment:
 #   - name: disqus
