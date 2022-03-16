@@ -1,0 +1,56 @@
+author:
+  avatar:
+    url: /images/avatar.jpg
+  sns:
+    - icon: { name: envelope, options: { type: "fa" } }
+      link: mailto:＃
+    - icon: { name: fab github, options: { type: "fa" } }
+      link: https://github.com/camellusforest
+
+head:
+  # favicons:
+  #   - rel: icon
+  #     type: image/png
+  #     sizes: 64x64
+  #     href: /images/favicon/xin-64.png
+  #   - rel: icon
+  #     type: image/png
+  #     sizes: 128x128
+  #     href: /images/favicon/xin-128.png
+  #   - rel: apple-touch-icon
+  #     sizes: 128x128
+  #     href: /images/favicon/xin-128.png
+  #   - rel: mask-icon
+  #     color: white
+  #     href: /images/favicon/xin.svg
+  theme_color: "#414852"
+
+post:
+  cc: by-nc-sa
+
+google_analytics:
+  tracking_id: UA-132230328-1
+
+menu:
+  home: { enable: true }
+  tags: { enable: true }
+  categories: { enable: true }
+  archives: { enable: true }
+  more:
+    path: /more/
+    icon: { name: info-circle, options: { type: "fa" } }
+# comment:
+#   - name: disqus
+#     options:
+#       shortname: jiangtj
+# - name: utteranc
+#   options:
+#     repo: jiangtj-lab/comments-test
+# - name: livere
+#   options:
+#     uid: MTAyMC80MzMyNi8xOTg2Nw==
+
+#chatra:
+#  enable: true
+#  async: true
+#  id: BBphpQAouKacekeKq
