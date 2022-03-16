@@ -36,8 +36,9 @@ menu:
   tags: { enable: true }
   categories: { enable: true }
   archives: { enable: true }
-  more:
-    path: /more/
+  about:
+#     path: /more/
+    path: #
     icon: { name: info-circle, options: { type: "fa" } }
 # comment:
 #   - name: disqus
