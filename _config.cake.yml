@@ -8,23 +8,22 @@ author:
       link: https://github.com/camellusforest
 
 head:
-  # favicons:
-  #   - rel: icon
-  #     type: image/png
-  #     sizes: 64x64
-  #     href: /images/favicon/xin-64.png
-  #   - rel: icon
-  #     type: image/png
-  #     sizes: 128x128
-  #     href: /images/favicon/xin-128.png
-  #   - rel: apple-touch-icon
-  #     sizes: 128x128
-  #     href: /images/favicon/xin-128.png
+  favicons:
+    - rel: icon
+      type: image/png
+      sizes: 16x16
+      href: /images/favicon/favicon-16x16.png
+    - rel: icon
+      type: image/png
+      sizes: 32x32
+      href: /images/favicon/favicon-32x32.png
+    - rel: apple-touch-icon
+      sizes: 180x180
+      href: /images/favicon/apple-touch-icon.png
   #   - rel: mask-icon
   #     color: white
   #     href: /images/favicon/xin.svg
   theme_color: "#414852"
-  favicon: /images/favicon.ico
 
 post:
   cc: by-nc-sa
