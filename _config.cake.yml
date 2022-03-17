@@ -25,6 +25,8 @@ head:
   #     href: /images/favicon/xin.svg
   theme_color: "#414852"
 
+# favicon: /images/Smile.ico
+
 post:
   cc: by-nc-sa
 
