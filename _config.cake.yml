@@ -25,7 +25,7 @@ head:
   #     href: /images/favicon/xin.svg
   theme_color: "#414852"
 
-favicon: /images/favicon.ico
+# favicon: /images/favicon.ico
 
 post:
   cc: by-nc-sa
@@ -39,7 +39,7 @@ menu:
   categories: { enable: true }
   archives: { enable: true }
   about:
-#     path: /more/
+    #     path: /more/
     path: https://camellusforest.netlify.app/2099/01/01/about-this-example/
     icon: { name: info-circle, options: { type: "fa" } }
 # comment:
