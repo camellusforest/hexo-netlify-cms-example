@@ -24,8 +24,7 @@ head:
   #     color: white
   #     href: /images/favicon/xin.svg
   theme_color: "#414852"
-
-# favicon: /images/favicon.ico
+  favicon: /images/favicon.ico
 
 post:
   cc: by-nc-sa
